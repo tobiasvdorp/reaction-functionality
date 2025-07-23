@@ -2,8 +2,6 @@
 
 This project demonstrates how to implement a simple reaction (like/thumbs-up) system while still using **Static Site Generation (SSG)** in NextJS.
 
----
-
 ## 🚀 Getting Started
 
 Follow the steps below to get the project up and running:
