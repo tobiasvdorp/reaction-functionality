@@ -46,11 +46,3 @@ pnpm run dev
 ### 6. Open the app
 
 Visit [http://localhost:3000](http://localhost:3000) in your browser to see it in action.
-
----
-
-## How it works
-
-- This example assumes a basic understanding of SSG and client-side hydration.
-- Reactions are stored via the external mock API and fetched at runtime.
-- Perfect for testing client–server interactions without setting up a full backend.
